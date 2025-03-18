@@ -1,3 +1,3 @@
 # Aero-Astro
 
-![til](Space-Time curvature.gif)
+![til](./Space-Time%20curvature.gif)
